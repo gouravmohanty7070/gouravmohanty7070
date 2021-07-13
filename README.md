@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravmohanty7070" alt="gouravmohanty7070" /></a> </p>
 
-- 🔭 I’m currently working on **a full stack developer**
+- 🔭 I’m currently working on **Android Apps**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Android App Development**
 
 - 👯 I’m looking to collaborate on **Github**
 
