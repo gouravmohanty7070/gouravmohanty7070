@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravmohanty7070" alt="gouravmohanty7070" /></a> </p>
 
-- 🔭 I’m currently working on **Android Apps**
+- 🔭 I’m currently working on **Backend Web Development**
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 🤝 I’m looking for help with **Websites and Competitive Coding**
 
